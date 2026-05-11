@@ -1,0 +1,9 @@
+flask
+openai
+gunicorn
+pdfplumber
+pdf2image
+pytesseract
+Pillow
+pillow-heif
+anthropic
